@@ -1,0 +1,57 @@
+body{
+    margin: 0; padding: 0;
+}
+.main{
+    display: flex;
+    background-color: maroon;
+     border-bottom: ridge red  ; 
+    }
+ .u1{
+     display: flex;
+    list-style: none;
+    }
+ li{
+    justify-content: space-around;
+    color: whitesmoke;
+    padding-right: 40px;
+    margin-left: 20px;
+ }
+.l1{
+        color: white;
+        text-decoration: none;
+       padding-right: 40px;
+    }
+.items{
+        background-color: red;
+    }
+.recover{
+        color: red;
+        text-decoration: none;
+        font-size: 20px;
+    }
+.form{
+      font-size: 30px;  
+        padding-left: 400px;
+        padding-top: 50px;
+        background-color: dimgray ;
+        padding-bottom: 30px;
+    }
+.sub{
+    background-color:rgb(5, 5, 5);
+}
+button{
+    background-color: red;
+    border-radius: 45px;
+    font: snow;
+    padding:15px;
+}
+footer{
+    color:whitesmoke
+}
+a{
+    text-decoration: none;
+    color: snow;
+}
+a:hover{
+    color: red;
+}
